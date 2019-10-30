@@ -14,7 +14,7 @@ body {
   -moz-osx-font-smoothing: grayscale;
 
   display: flex;
-  flex-direction: column;
+  flex-direction: rows;
   align-items: center;
   justify-content: center;
   text-align: center;
